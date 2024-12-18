@@ -391,6 +391,12 @@ canvas {
     height: 200px;
   }
 
+  .card__description {
+    font-size: 12px;
+    overflow-y: auto;
+    max-height: 120px;
+  }
+
   .footer {
     background-color: #0000009c;
     padding: 10px 20px;

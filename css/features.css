@@ -403,9 +403,9 @@ canvas {
     background-color: #0000009c;
     padding: 10px 20px;
   }
-
+  
   .footer-container {
-    margin-top: 20px;
+    margin-top: 10px;
     align-items: center;
     display: flex;
     flex-direction: row;

@@ -266,6 +266,10 @@ canvas {
     margin-left: 15px;
   }
 
+  .footer-container p {
+    font-size: 11px;
+  }
+
   .social-wrapper {
     align-items: center;
   }
